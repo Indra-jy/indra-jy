@@ -39,10 +39,6 @@ Here are some ideas to get you started:
 ![indra-jy's GitHub stats](https://github-readme-stats.vercel.app/api?username=indra-jy&show_icons=true&bg_color=00000000)
  -->
  
-<img src="https://raw.githubusercontent.com/indra-jy/indra-jy/output/snake.svg" alt="Snake animation" />
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/indra-jy/indra-jy/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/indra-jy/indra-jy/output/pacman-contribution-graph.svg">
