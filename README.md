@@ -45,4 +45,7 @@ Here are some ideas to get you started:
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/indra-jy/indra-jy/output/pacman-contribution-graph.svg">
 </picture>
 
+
+<img src="https://raw.githubusercontent.com/indra-jy/indra-jy/output/snake.svg" alt="Snake animation" />
+
 ###
