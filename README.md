@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👨‍💻 Junior Data Engineer | SQL & MySQL Enthusiast 📜 Certified: Junior Assistant Programmer (BNSP)
+![baner](img/github-header-banner.png)
 
 -🌱 I’m currently learning Mysql
 
