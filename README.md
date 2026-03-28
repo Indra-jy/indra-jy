@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World! I'm Kukuh Indra Maulana 👋
 
 <!--
 **Indra-jy/indra-jy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👨‍💻 Junior Data Engineer | SQL & MySQL Enthusiast 📜 Certified: Junior Assistant Programmer (BNSP)
+
+-🌱 I’m currently learning Mysql
+
+![Uchiha Indra](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGJvdnZjcHR1dHZqazRjNDF2ajdyM2U0cDhwZmNzYW1vaWI3bXM3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8SEnoMhrEeBDa/giphy.gif)
