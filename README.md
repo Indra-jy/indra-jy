@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![baner](img/github-header-banner.png)
+![baner](img/github-header-banner%20(1).png)
 
 I am a technologist who combines three areas of expertise: as a Web Developer who builds functional applications, a Data Engineer who processes and manages data efficiently, and a Web Designer who focuses on aesthetics and user experience. With this multidisciplinary approach, I am able to create digital products that are not only technically robust, but also visually appealing and smart in their data management.
 
@@ -31,7 +31,7 @@ I am a technologist who combines three areas of expertise: as a Web Developer wh
 
 ### Connect with me
 
-[![linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kukuh-indra-maulanaa-72b14a3a1/?name=Data%20Analisis%20%28Micro%20Skill%29&organizationId=14595172&issueYear=2026&issueMonth=12&certUrl=https%3A%2F%2Fdigitalent.kominfo.go.id%2Fcek-sertifikat&certId=2299818850-20109) [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=kukuhindramaulanaa@gmail.com&su=Halo%20Kukuh&body=Saya%20tertarik%20dengan%20portofolio%20Anda) [![Tele](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kukuhindramaulana) [![Wa](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/6289630436563) [![Ig](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/indraa_eleven?igsh=dnV5d3BzaHk5MWdt) [![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@itsmanabu_?is_from_webapp=1&sender_device=pc)
+[![linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kukuh-indra-maulana-72b14a3a1/?name=Data%20Analisis%20%28Micro%20Skill%29&organizationId=14595172&issueYear=2026&issueMonth=12&certUrl=https%3A%2F%2Fdigitalent.kominfo.go.id%2Fcek-sertifikat&certId=2299818850-20109) [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=kukuhindramaulanaa@gmail.com&su=Halo%20Kukuh&body=Saya%20tertarik%20dengan%20portofolio%20Anda) [![Tele](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kukuhindramaulana) [![Wa](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/6289630436563) [![Ig](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/indraa_eleven?igsh=dnV5d3BzaHk5MWdt) [![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@itsmanabu_?is_from_webapp=1&sender_device=pc)
 
 
 <!--  #### My Github Stats -->
